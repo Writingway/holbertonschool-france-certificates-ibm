@@ -24,10 +24,3 @@ I have earned IBM certification for:
 
 - **Introduction to Open Source (OS0101EN)**  
 - **Agile Software Development**
-
----
-
-## Notes
-This repository includes:
-- Key exercises and examples from the course
-- Personal notes on Agile and open-source best practices
